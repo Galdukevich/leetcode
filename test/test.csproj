@@ -9,8 +9,10 @@
 
   <ItemGroup>
     <None Remove="AddTwoNumbers\" />
+    <None Remove="50tasks\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="AddTwoNumbers\" />
+    <Folder Include="50tasks\" />
   </ItemGroup>
 </Project>
